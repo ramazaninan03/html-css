@@ -1,0 +1,16 @@
+.mid{
+    text-align:center;
+    border: 2px solid black;
+    position: relative;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    height: 100%;
+    background-color:lightblue;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 2px 2px grey;
+}
